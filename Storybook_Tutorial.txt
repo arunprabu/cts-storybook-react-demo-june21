@@ -1,0 +1,8 @@
+Installation Instr
+----
+  Ref: https://storybook.js.org/docs/react/get-started/install
+
+  npx sb init
+
+  npx run storybook 
+
